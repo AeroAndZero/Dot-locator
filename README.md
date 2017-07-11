@@ -1,4 +1,5 @@
 # Dot-locator
+- Created By Ayush Thakur -
 This is a Program which locates Coordinates
 
 You can type "help" to see all the commands
