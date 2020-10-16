@@ -1,9 +1,29 @@
 # Dot-locator
-- Created By Ayush Thakur -
-This is a Program which locates Coordinates
 
-You can type "help" to see all the commands
-If you have find any bug/trouble please contact me on ayushthakur667@gmail.com
 
-Source Code file is Also Given in the Repository. You have to download Python programming language in order to view the source code (or you can open in directly in the github)
-This is my first big projects so bugs are for sure ;P
+
+ This is a Program which locates Coordinates
+
+  - Type "help" to see all the commands
+  - See the Source Code file in the Repository
+  - Magic😎
+
+
+#  programing language
+PYTHON🐍 :
+Python is an interpreted, high-level and general-purpose programming language.
+
+> You have to download Python programming language in order to view the source code (or you can open in directly in the github)
+
+
+# Created by :
+***👨🏻‍💻Ayush Thakur***
+*This is my first big projects so bugs are for sure ;P*
+
+
+
+**Free Software, Hell Yeah!**
+
+
+
+
