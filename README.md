@@ -4,8 +4,6 @@
 
   - Type "help" to see all the commands
   - See the Source Code file in the Repository
-  - Magic😎
-
 
 #  programing language
 PYTHON🐍 :
